@@ -8,6 +8,7 @@ I only tested against a `Samsung Watch3` but it should be compatible with any de
 Warnning: This is a personal project under MIT licence.
 
 FROM: https://raw.githubusercontent.com/git/git-scm.com/main/MIT-LICENSE.txt
+
 Copyright (c) 2012-2021 Scott Chacon and others
 
 Permission is hereby granted, free of charge, to any person obtaining
