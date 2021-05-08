@@ -1,6 +1,7 @@
 # canvas-watch
 
 This is a watch template for Tizen Watch. 
+
 I only tested against a `Samsung Watch3` but it should be compatible with any device with SDK `2.3.1` and above.
 
 ![Project result](https://github.com/MauroMaia/canvas-watch/blob/main/icon.png)
